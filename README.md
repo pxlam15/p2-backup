@@ -1,0 +1,4 @@
+Live URL:  p2.peterlam.me
+Description:  XKCD Password Generator.  Generates random strings (up to 9 words) and puts them together.  Will also add a random number and symbol at the end.
+Demo Information:  Plan on attending section in-person
+Plugins/Libraries/Packages/Outside Code Used:  I had an issue with generating random arrays and not having the duplicate.  I referred to stack overflow and a man named Mark M helped me identify my error and advised me to use the shuffle and array_rand().  Before, I was trying to make a binary search and it was giving me all sorts of errors.  Styling is courtesy of Professor Buck (liked her font so I used it) and then found a webform css file that I liked which is courtesy of James George.  Image courtesy of XKCD.

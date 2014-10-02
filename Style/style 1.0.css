@@ -1,0 +1,56 @@
+.info{
+	vertical-align: center;
+	padding: 10px;
+	margin-left: 12%;
+	margin-right: 12%;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	font-size: 14pt;
+	border: 5px #000000;
+}
+
+.passwordBox{
+	/*Used Professor Buck's font because I like it a lot*/
+	margin:auto;
+	position:relative;
+	padding:15px;
+	width:900px;
+	height:40px;
+	font-family:consolas,courier;
+	background-color:#eee;
+	font-size: 14pt;
+	line-height: 24px;
+	font-weight: bold;
+	color: #000000;
+	text-decoration: none;
+	box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.3);
+	text-align: center;
+}
+
+form{
+
+	/* Liked a particular web form from James George "http://www.sitepoint.com/style-web-forms-css/"  Modified his Code some to match what I wanted it to look like  */
+
+	background: -webkit-gradient(linear, bottom, left 175px, from(#CCCCCC), to(#EEEEEE));
+	background: -moz-linear-gradient(bottom, #CCCCCC, #EEEEEE 175px);
+	margin:auto;
+	position:relative;
+	width:300px;
+	height:200px;
+	font-family:consolas,courier;
+	font-size: 14pt;
+	line-height: 24px;
+	font-weight: bold;
+	color: #000000;
+	text-decoration: none;
+	-webkit-border-radius: 10px;
+	-moz-border-radius: 10px;
+	border-radius: 10px;
+	padding:10px;
+	border: 1px solid #999;
+	border: inset 1px solid #333;
+	-webkit-box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.3);
+	-moz-box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.3);
+	box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.3);
+	text-align: center;
+}
